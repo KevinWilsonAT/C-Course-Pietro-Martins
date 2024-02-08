@@ -1,11 +1,8 @@
-// If / Else Structure
+// If Structure
 
 // Syntax:
 
 // if(<condition>){
-//		<command_block>
-// }
-// else {
 //		<command_block>
 // }
 
@@ -28,9 +25,5 @@ int main(){
 	
 	if(m >= 7.0){
 		printf("Approved.");
-	}
-	else{
-		printf("Reproved.");
-	}
-	
+	} 
 }

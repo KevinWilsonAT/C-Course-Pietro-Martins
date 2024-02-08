@@ -54,9 +54,9 @@ int main(){
 	data -= 2;
 	printf("Data after decrement in 2 units: %d.\n", data);
 	
-	data *=;
+	data *= 10;
 	printf("Data after multiplication attribution by 10: %d.\n", data);
 	
-	data /=;
+	data /= 10;
 	printf("Data after division attribution by 10: %d.\n", data);
 }

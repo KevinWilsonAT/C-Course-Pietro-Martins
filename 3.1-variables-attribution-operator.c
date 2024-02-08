@@ -34,7 +34,7 @@ int main(){
 	
 	int age = 0;
 	float height = 0.0;
-	char[50] name = "";
+	char name[50] = "";
 	
 	printf("Type a name: ");
 	printf("%s", &name);
