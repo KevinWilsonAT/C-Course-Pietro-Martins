@@ -24,5 +24,5 @@ int main(){
 	scanf("%.2f", &weight);
 	printf("Informed age: %d. \n", age);
 	printf("Informed year: %d. \n", year);
-	printf("Informed weight: %d. \n", weight);
+	printf("Informed weight: %f. \n", weight);
 }
